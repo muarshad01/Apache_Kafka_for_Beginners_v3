@@ -1,3 +1,6 @@
+[Apache Kafka Series - Learn Apache Kafka for Beginners v3](https://www.udemy.com/course/apache-kafka/?couponCode=LEADERSALE24A)
+
+***
 * [Section 01: Kafka Introduction](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_01.md)
 * [Section 02: Code Download](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_02.md)
 * [Section 03: Kafka Fundamentals](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_03.md)
