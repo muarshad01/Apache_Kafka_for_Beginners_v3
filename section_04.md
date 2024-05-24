@@ -1,39 +1,39 @@
-## 7.
+## 7. Topics, Partitions and Offsets
 
 ***
 
-## 8.
+## 8. Producers and Message Keys
 
 ***
 
-## 9.
+## 9. Consumers & Deserialization
 
 ***
 
-## 10.
+## 10. Consumer Groups & Consumer Offsets
 
 ***
 
-## 11.
+## 11. Brokers and Topics
 
 ***
 
-## 12.
+## 12. Topic Replication
 
 ***
 
-## 13.
+## 13. Producer Acknowledgements & Topic Durability
 
 ***
 
-## 14.
+## 14. Zookeeper
 
 ***
 
-## 15.
+## 15. Kafka KRaft - Removing Zookeeper
 
 ***
 
-## 16.
+## 16. Theory Roundup
 
 ***
