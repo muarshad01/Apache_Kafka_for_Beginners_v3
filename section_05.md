@@ -48,6 +48,10 @@ kafka-server-start.sh ~/kafka_2.13-3.7.0/config/server.properties
 
 ## 22. Mac OS X - Using brew
 
+```bash
+$ https://www.conduktor.io/kafka/how-to-install-apache-kafka-on-mac-with-homebrew/
+```
+
 ***
 
 ## 23. Linux - Download and Setup Kafka in PATH
