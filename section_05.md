@@ -35,11 +35,12 @@ export PATH=$PATH:$KAFKA_HOME/bin
 ## 21. Mac OS X - Start Zookeeper and Kafka
 
 ### Start Zookeeper
-```
+```bash
 $ zookeeper-server-start.sh ~/kafka_2.13-3.7.0/config/zookeeper.properties
 ```
+
 ### Start Kafka
-```
+```bash
 kafka-server-start.sh ~/kafka_2.13-3.7.0/config/server.properties
 ```
 
