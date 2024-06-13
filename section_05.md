@@ -1,5 +1,6 @@
 ## 17. Important: Starting Kafka & Lectures Order
-
+* https://www.conduktor.io/kafka/starting-kafka/
+  
 ***
 
 ## 18. FAQ for Setup Problems
