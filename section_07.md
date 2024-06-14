@@ -1,5 +1,9 @@
 ## 34. CLI Introduction
 
+```
+$ kafka-topics.sh
+```
+
 ***
 
 ## 35. WINDOWS WARNING: PLEASE READ
