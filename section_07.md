@@ -1,7 +1,12 @@
 ## 34. CLI Introduction
 
-```
+```bash
 $ kafka-topics.sh
+```
+
+```bash
+$ kafka-topics.sh --bootstrap-server localhost 9092
+$ kafka-topics.sh --zookeeper        localhost 2181          # Don't use
 ```
 
 ***
