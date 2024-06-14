@@ -16,7 +16,12 @@ $ kafka-topics.sh --zookeeper        localhost 2181          # Don't use
 ***
 
 ## 36. Kafka Topics CLI
-
+* Create Kafka Topics
+* List Kafka Topics
+* Describe Kafka Topics
+* Increase Partitions in a Kafka Topics
+* Delete Kafka Topics
+  
 ***
 
 ## 37. Kafka Console Producer CLI
