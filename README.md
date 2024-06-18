@@ -8,7 +8,7 @@
 * [Section 04: Kafka Theory](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_04.md) -- June 13, 2024
 * [Section 05: Starting Kafka](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_05.md) -- June 13, 2024
 * [Section 06: Starting Kafka without ZooKeeper](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_06.md) -- June 13, 2024
-* [Section 07: CLI](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_07.md)
+* [Section 07: CLI](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_07.md) -- June 18, 2024
 * [Section 08: Kafka UI](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_08.md)
 * [Section 09: Kafka Java Programming](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_09.md) -- TODO
 * [Section 10: Kafka Real World Project](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_10.md)
