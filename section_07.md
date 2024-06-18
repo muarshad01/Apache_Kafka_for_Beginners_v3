@@ -51,7 +51,9 @@ $ kafka-topics.sh --bootstrap-server localhost:9092 --topic first_topic --delete
 ***
 
 ## 37. Kafka Console Producer CLI
-* File 
+
+* File `1-kafka-console-producer.sh`
+
 ```
 kafka-topics.sh --bootstrap-server localhost:9092 --topic first_topic --create --partitions 1
 
