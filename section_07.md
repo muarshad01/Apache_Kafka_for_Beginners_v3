@@ -23,6 +23,7 @@ $ kafka-topics.sh --zookeeper        localhost 2181          # Don't use
 * Delete Kafka Topics
 
 * File `0-kafka-topics.sh`
+
 ```bash
 $ kafka-topics.sh 
 
@@ -55,14 +56,14 @@ $ kafka-topics.sh --bootstrap-server localhost:9092 --topic first_topic --delete
 * File `1-kafka-console-producer.sh`
 
 ```
-kafka-topics.sh --bootstrap-server localhost:9092 --topic first_topic --create --partitions 1
+$ kafka-topics.sh --bootstrap-server localhost:9092 --topic first_topic --create --partitions 1
 
 # producing
 kafka-console-producer.sh --bootstrap-server localhost:9092 --topic first_topic 
 > Hello World
->My name is Conduktor
->I love Kafka
->^C  (<- Ctrl + C is used to exit the producer)
+> My name is Conduktor
+> I love Kafka
+> ^C  (<- Ctrl + C is used to exit the producer)
 
 
 # producing with properties
@@ -96,9 +97,12 @@ kafka-topics.sh --bootstrap-server localhost:9092 --topic new_topic_2 --describe
 
 
 # produce with keys
-kafka-console-producer.sh --bootstrap-server localhost:9092 --topic first_topic --property parse.key=true --property key.separator=:
->example key:example value
->name:Stephane
+kafka-console-producer.sh --bootstrap-server localhost:9092
+--topic first_topic
+--property parse.key=true
+--property key.separator=:
+> example key:example value
+> name:Stephane
 ```
 
 ***
