@@ -5,6 +5,18 @@
 
 ## 44. Creating Kafka Project
 
+
+
+* File -> New -> Project
+* New Project: Java, Gradle, JDK: 11
+* Advanced Settings
+    * GroupId:
+    * ArtifactId:
+
+* Delete `src/java` and `src/test`
+* New Module - Java 11, Gradle
+* Name: kafka-basics
+
 ***
 
 ## 45. Java Producer
