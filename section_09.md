@@ -28,6 +28,10 @@
     * [SLF4J Simple](https://mvnrepository.com/artifact/org.slf4j/slf4j-simple)
 
 * Java Class - `io.conduktor.demos.kafka.ProducerDemo`
+```
+IntelliJ -> Preferences -> Build, Execution, Deployment
+BuildTools: Gradle
+```
 
 ***
 
