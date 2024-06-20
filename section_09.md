@@ -6,7 +6,7 @@
 ## 44. Creating Kafka Project
 
 ### Create Project
-* `IntelliJ`: File -> New -> Project
+* `IntelliJ`: File > New > Project
     * Java, Gradle, JDK 11
 * Name: `kafka-beginners-course`
 * Advanced Settings:
@@ -15,7 +15,7 @@
 * Delete
     * `src/java`
     * `src/test`
-* File -> New -> Module
+* File > New > Module
     * Java, Gradle, JDK11
 * Name: `kafka-basics`
 * Advanced Settings
@@ -32,7 +32,7 @@
 * Java Class - `io.conduktor.demos.kafka.ProducerDemo`
 
 ### Settings
-* IntelliJ -> Preferences -> Build, Execution, Deployment
+* IntelliJ > Preferences > `Build, Execution, Deployment`
     * BuildTools: Gradle
 
 ***
