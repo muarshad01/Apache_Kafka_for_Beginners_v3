@@ -9,12 +9,9 @@
 * `IntelliJ`: File -> New -> Project
     * Java, Gradle, JDK 11
 * Name: `kafka-beginners-course`
-* Advanced Settings
+* Advanced Settings:
     * GroupId: `io.conduktor.demos`
     * ArtifactId: `kafka-beginners-course`
-
-***
-
 * Delete
     * `src/java`
     * `src/test`
@@ -37,6 +34,7 @@
 ### Settings
 * IntelliJ -> Preferences -> Build, Execution, Deployment
     * BuildTools: Gradle
+
 ***
 
 ## 45. Java Producer
