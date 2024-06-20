@@ -7,9 +7,10 @@
 
 ### Create Project
 * `IntelliJ`: File > New > Project
-    * Java, Gradle, JDK 11
-* Name: `kafka-beginners-course`
-* Advanced Settings:
+    * Gradle, Java, JDK 11
+* Name
+    * `kafka-beginners-course`
+* Advanced Settings
     * GroupId: `io.conduktor.demos`
     * ArtifactId: `kafka-beginners-course`
 * Delete
@@ -17,7 +18,8 @@
     * `src/test`
 * File > New > Module
     * Java, Gradle, JDK11
-* Name: `kafka-basics`
+* Name
+    * `kafka-basics`
 * Advanced Settings
     * GroupId: `io.conduktor.demos`
     * ArtifactId: `kafka-basics`
