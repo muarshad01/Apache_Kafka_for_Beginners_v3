@@ -36,11 +36,12 @@
 * Java Class - `io.conduktor.demos.kafka.ProducerDemo`
 
 ### Settings
-* IntelliJ > Preferences > `Build, Execution, Deployment`
-    * BuildTools: Gradle
-        * Build and run using: `IntelliJ IDEA`
-        * Run tests using: `Gradle`
-
+* IntelliJ > Settings > `Build, Execution, Deployment`
+    * BuildTools
+        * Gradle
+            * Build and run using: `IntelliJ IDEA`
+            * Run tests using: `Gradle`
+      
 ***
 
 ## 45. Java Producer
