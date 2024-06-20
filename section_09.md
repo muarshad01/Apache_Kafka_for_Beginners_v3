@@ -30,6 +30,8 @@
     * [SLF4J API](https://mvnrepository.com/artifact/org.slf4j/slf4j-api) -> choose `Gradle (short)`
     * [SLF4J Simple](https://mvnrepository.com/artifact/org.slf4j/slf4j-simple) -> choose `Gradle (short)`
 
+* Load `Gradle`
+
 ### Create Java Class
 * Java Class - `io.conduktor.demos.kafka.ProducerDemo`
 
