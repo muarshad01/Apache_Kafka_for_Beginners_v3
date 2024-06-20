@@ -5,34 +5,36 @@
 
 ## 44. Creating Kafka Project
 
-* File -> New -> Project
-* New Project: Java, Gradle, JDK: 11
-* Name: Kafka-beginners-course
+### Create Project
+* `IntelliJ`: File -> New -> Project
+    * Java, Gradle, JDK 11
+* Name: `kafka-beginners-course`
 * Advanced Settings
-    * GroupId: is-conduktor.demos
-    * ArtifactId: Kafka-beginners-course
+    * GroupId: `io.conduktor.demos`
+    * ArtifactId: `kafka-beginners-course`
 
 ***
 
-* Delete `src/java` and `src/test`
-* New Module - Java, Gradle, JDK:11
-* Name: Kafka-basics
+* Delete: `src/java` and `src/test`
+* File -> New -> Module
+    * Java, Gradle, JDK11
+* Name: `kafka-basics`
 * Advanced Settings
-    * GroupId: io-conduktor.demos
-    * ArtifactId: Kafka-basics
+    * GroupId: `io.conduktor.demos`
+    * ArtifactId: `kafka-basics`
 
-
+### Add Dependencis
 * [Kafka Maven](https://mvnrepository.com/artifact/org.apache.kafka)
-    * org.apache.kafka » kafka-clients -> `Gradle (short)`
-    * [SLF4J API](https://mvnrepository.com/artifact/org.slf4j/slf4j-api)
-    * [SLF4J Simple](https://mvnrepository.com/artifact/org.slf4j/slf4j-simple)
+    * [kafka-clients](https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients) -> choose `Gradle (short)`
+    * [SLF4J API](https://mvnrepository.com/artifact/org.slf4j/slf4j-api) -> choose `Gradle (short)`
+    * [SLF4J Simple](https://mvnrepository.com/artifact/org.slf4j/slf4j-simple) -> choose `Gradle (short)`
 
+### Create Java Class
 * Java Class - `io.conduktor.demos.kafka.ProducerDemo`
-```
-IntelliJ -> Preferences -> Build, Execution, Deployment
-BuildTools: Gradle
-```
 
+### Settings
+* IntelliJ -> Preferences -> Build, Execution, Deployment
+    * BuildTools: Gradle
 ***
 
 ## 45. Java Producer
