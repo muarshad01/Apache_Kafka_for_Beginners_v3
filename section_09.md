@@ -5,17 +5,21 @@
 
 ## 44. Creating Kafka Project
 
-
-
 * File -> New -> Project
 * New Project: Java, Gradle, JDK: 11
+* Name: Kafka-beginners-course
 * Advanced Settings
-    * GroupId:
-    * ArtifactId:
+    * GroupId: is-conduktor.demos
+    * ArtifactId: Kafka-beginners-course
+
+***
 
 * Delete `src/java` and `src/test`
-* New Module - Java 11, Gradle
-* Name: kafka-basics
+* New Module - Java, Gradle, JDK:11
+* Name: Kafka-basics
+* Advanced Settings
+    * GroupId: io-conduktor.demos
+    * ArtifactId: Kafka-basics
 
 ***
 
