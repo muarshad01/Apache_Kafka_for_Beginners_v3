@@ -14,7 +14,7 @@
     * GroupId: `io.conduktor.demos`
     * ArtifactId: `kafka-beginners-course`
 * Delete
-    * `src/java`
+    * `src/main`
     * `src/test`
 * File > New > Module
     * Java, Gradle, JDK11
