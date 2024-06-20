@@ -39,6 +39,7 @@
 * IntelliJ > Preferences > `Build, Execution, Deployment`
     * BuildTools: Gradle
         * Build and run using: IntelliJ IDEA
+        * Run tests using: `Gradle`
 
 ***
 
