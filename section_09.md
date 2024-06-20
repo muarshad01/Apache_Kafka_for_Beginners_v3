@@ -15,7 +15,9 @@
 
 ***
 
-* Delete: `src/java` and `src/test`
+* Delete
+    * `src/java`
+    * `src/test`
 * File -> New -> Module
     * Java, Gradle, JDK11
 * Name: `kafka-basics`
