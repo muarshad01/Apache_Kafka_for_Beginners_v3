@@ -21,6 +21,14 @@
     * GroupId: io-conduktor.demos
     * ArtifactId: Kafka-basics
 
+
+* [Kafka Maven](https://mvnrepository.com/artifact/org.apache.kafka)
+    * org.apache.kafka » kafka-clients -> `Gradle (short)`
+    * [SLF4J API](https://mvnrepository.com/artifact/org.slf4j/slf4j-api)
+    * [SLF4J Simple](https://mvnrepository.com/artifact/org.slf4j/slf4j-simple)
+
+* Java Class - `io.conduktor.demos.kafka.ProducerDemo`
+
 ***
 
 ## 45. Java Producer
