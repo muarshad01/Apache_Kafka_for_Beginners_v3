@@ -45,9 +45,9 @@
 
 ### External Libraries not Showing Up
 * [Getting Gradle dependencies in IntelliJ IDEA using Gradle build](https://stackoverflow.com/questions/27694442/getting-gradle-dependencies-in-intellij-idea-using-gradle-build)
-    * 1 Delete `.idea` directory from my project folder.
-    * 2 Reopen IntelliJ and `import the project again (as Gradle)`.
-    * 3 After the above, any new gradle dependency I added to `build.gradle` started appearing in External Dependencies section when I clicked the gradle refresh button.
+    * 1 - Delete `.idea` directory from my project folder.
+    * 2 - Reopen IntelliJ and `import the project again (as Gradle)`.
+    * 3 - After the above, any new gradle dependency I added to `build.gradle` started appearing in External Dependencies section when I clicked the gradle refresh button.
 
 ***
 
