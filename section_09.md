@@ -53,6 +53,18 @@
 
 ## 45. Java Producer
 
+```
+$ source ~/.bash_profile
+$ kafka-beginners-course % zookeeper-server-start.sh ~/kafka_2.13-3.7.0/config/zookeeper.properties
+
+$ source ~/.bash_profile
+$ kafka-server-start.sh ~/kafka_2.13-3.7.0/config/server.properties
+
+$ source ~/.bash_profile
+$ kafka-topics.sh --bootstrap-server localhost:9092 --topic demo_java --create --partitions 3
+$ kafka-topics.sh --bootstrap-server localhost:9092 --topic demo_java --describe
+```
+
 ***
 
 ## 46. Java Producer Callbacks
