@@ -20,3 +20,10 @@
 * [Section 16: Advanced Kafka]() -- TODO
 * [Section 17: Advanced Topics Configuration]() -- __TODO__
 * [Section 18: Next Steps]()
+
+***
+
+## Editor
+* IntelliJ IDEA > Settings > Editor > General > Auto Import > Add unimbiguopus imports on the fly
+
+***
