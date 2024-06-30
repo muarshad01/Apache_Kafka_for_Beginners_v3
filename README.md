@@ -12,7 +12,7 @@
 * [Section 08: Kafka UI](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_08.md)
 * [Section 09: Kafka Java Programming](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_09.md) -- __TODO__
 * [Section 10: Kafka Real World Project](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_10.md)
-* [Section 11: Kafka Wikimedia Producer & Advanced Producer Configuration](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_11.md)
+* [Section 11: Kafka Wikimedia Producer & Advanced Producer Configuration](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_11.md) -- Jun 30, 2024
 * [Section 12: OpenSearch Consumer & Advanced Consumer Configurations]()
 * [Section 13: Kafka Extended APIs for Developers]()
 * [Section 14: Real World Insights and Case Studies]()
