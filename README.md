@@ -24,6 +24,6 @@
 ***
 
 ## Editor
-* IntelliJ IDEA > Settings > Editor > General > Auto Import > Add unimbiguopus imports on the fly
+* `IntelliJ IDEA > Settings > Editor > General > Auto Import > Add unimbiguopus imports on the fly`
 
 ***
