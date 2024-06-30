@@ -109,5 +109,6 @@ $ kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic demo_java
 
 ## 54. Programming - Advanced Tutorials
 * https://www.conduktor.io/kafka/java-kafka-programming/
+* https://www.conduktor.io/kafka/advanced-kafka-consumer-with-java/
   
 ***
