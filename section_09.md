@@ -94,7 +94,9 @@ $ kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic demo_java
 ***
 
 ## 51. Java Consumer Incremental Cooperative Rebalance & Static Group Membership
-
+* Eager Rebalance (Stop-the-world events)
+* Cooperative Rebalance
+  
 ***
 
 ## 52. Java Consumer Incremental Cooperative Rebalance - Practice
@@ -106,5 +108,6 @@ $ kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic demo_java
 ***
 
 ## 54. Programming - Advanced Tutorials
-
+* https://www.conduktor.io/kafka/java-kafka-programming/
+  
 ***
