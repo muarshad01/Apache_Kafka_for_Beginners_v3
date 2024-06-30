@@ -18,7 +18,7 @@
 * [Section 14: Real World Insights and Case Studies]()
 * [Section 15: Kafka in the Enterprise for Admins]()
 * [Section 16: Advanced Kafka]() -- TODO
-* [Section 17: Advanced Topics Configuration]() -- __TODO__
+* [Section 17: Advanced Topics Configuration]() -- __In Progress__
 * [Section 18: Next Steps]()
 
 ***
