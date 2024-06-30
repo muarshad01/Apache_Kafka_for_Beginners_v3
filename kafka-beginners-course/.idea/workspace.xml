@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecaec777-fbac-4ec0-bac9-6192d1138cf5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafka-beginners-course" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafka-beginners-course" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/kafka-basics/build.gradle" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2iA4qtUpJ2l2T7L53zyPObFMD2K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConsumerDemo.executor": "Run",
+    "Application.ConsumerDemoCooperative.executor": "Run",
+    "Application.ConsumerDemoWithShutdown.executor": "Run",
+    "Application.ProducerDemo.executor": "Run",
+    "Application.ProducerDemoKeys.executor": "Run",
+    "Application.ProducerDemoWithCallback.executor": "Run",
+    "Gradle.Load Gradle Dependencies.executor": "Run",
+    "Gradle.kafka-beginners-course [build].executor": "Run",
+    "Gradle.kafka-beginners-course:kafka-basics [:kafka-basics:ProducerDemo.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ConsumerDemoCooperative">
+    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.conduktor.demos.kafka.ConsumerDemo" />
+      <module name="kafka-beginners-course.kafka-basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.conduktor.demos.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoCooperative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.conduktor.demos.kafka.ConsumerDemoCooperative" />
+      <module name="kafka-beginners-course.kafka-basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.conduktor.demos.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoWithShutdown" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.conduktor.demos.kafka.ConsumerDemoWithShutdown" />
+      <module name="kafka-beginners-course.kafka-basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.conduktor.demos.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.conduktor.demos.kafka.ProducerDemoKeys" />
+      <module name="kafka-beginners-course.kafka-basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.conduktor.demos.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoWithCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.conduktor.demos.kafka.ProducerDemoWithCallback" />
+      <module name="kafka-beginners-course.kafka-basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.conduktor.demos.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerDemoCooperative" />
+      <item itemvalue="Application.ConsumerDemo" />
+      <item itemvalue="Application.ConsumerDemoWithShutdown" />
+      <item itemvalue="Application.ProducerDemoKeys" />
+      <item itemvalue="Application.ProducerDemoWithCallback" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerDemoCooperative" />
+        <item itemvalue="Application.ProducerDemoKeys" />
+        <item itemvalue="Application.ConsumerDemoWithShutdown" />
+        <item itemvalue="Application.ConsumerDemo" />
+        <item itemvalue="Application.ProducerDemoWithCallback" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecaec777-fbac-4ec0-bac9-6192d1138cf5" name="Changes" comment="" />
+      <created>1718920242063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718920242063</updated>
+    </task>
+    <servers />
+  </component>
+</project>
