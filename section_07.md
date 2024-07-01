@@ -148,7 +148,7 @@ $ kafka-console-consumer.sh
 
 ```bash
 # create a topic with 3 partitions
-$ kafka-topics.sh --bootstrap-server localhost:9092 --topic third_topic --create --partitions 3
+$ kafka-topics.sh           --bootstrap-server localhost:9092 --topic third_topic --create --partitions 3
 
 # start one consumer
 $ kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic third_topic --group my-first-application
