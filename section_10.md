@@ -15,10 +15,9 @@ $ kafka-topics --create --bootstrap-server localhost:9092 --topic configured-top
 
 $ kafka-topics          --bootstrap-server localhost:9092 --topic configured-topic --describe
 
-$ kafka-topics          --bootstrap-server localhost:9092 --entity-type topics --entity-name configured-topic --describe
+$ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics --entity-name configured-topic --describe
 
-$ kafka-topics          --bootstrap-server localhost:9092 --entity-type topics --entity-name configured-topic --alter --add-config min.insync.replicas=2
+$ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics --entity-name configured-topic --alter --add-config min.insync.replicas=2
 
-$ kafka-topics          --bootstrap-server localhost:9092 --entity-type topics --entity-name configured-topic --alter --delete-config min.insync.replicas
+$ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics --entity-name configured-topic --alter --delete-config min.insync.replicas
 ```
-``
