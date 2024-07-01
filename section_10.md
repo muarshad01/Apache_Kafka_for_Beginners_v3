@@ -7,8 +7,8 @@
   * Compression level
   * Log cleanup policy
   * min InSync Replicas (ISR)
-* Pther configurations
-* https://kafka.apache.org/documentation/#brokerconfigs
+  * Other configurations
+  * https://kafka.apache.org/documentation/#brokerconfigs
 
 ```bash
 $ kafka-topics --create --bootstrap-server localhost:9092 --topic configured-topic --replication-factor 1 --partitions 3
