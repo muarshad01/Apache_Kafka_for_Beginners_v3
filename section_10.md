@@ -21,3 +21,14 @@ $ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics 
 
 $ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics --entity-name configured-topic --alter --delete-config min.insync.replicas
 ```
+
+## Segment and Indexes
+* A smaller `log.segment.bytes` means:
+  * More segments per partition
+  * Log compaction happens more often
+  * MUT Kafka must keep more files open
+  * ASK YOURSELF: How fas will I've new segments based on throughput? 
+* A smaller `log.segment.ms` means:
+  * You set a max frequency for log compaction (more frequent triggers)
+  * Maybe you want daily compaction insted of weekly?
+  * ASK YOURSELF: How often do I need log compaction to happen?
