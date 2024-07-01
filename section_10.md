@@ -1,6 +1,6 @@
 ## Some topics may need different values by defaults
 * Replication factor
-* # Partitions
+* \# Partitions
 * Message size
 * Compression level
 * Log cleanup policy
