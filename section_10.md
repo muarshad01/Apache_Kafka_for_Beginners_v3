@@ -25,6 +25,8 @@ $ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics 
 ## Segment and Indexes
 * Topic = {P1, P2, ..., P_n}
 * Partion = {S1, S2, ..., S_m}
+* Segment (File)
+***
 * A smaller `log.segment.bytes` means:
   * More segments per partition
   * Log compaction happens more often
