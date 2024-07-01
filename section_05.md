@@ -11,7 +11,7 @@
 
 ***
 
-## 20. Mac OS X - Download and Setup Kafka in PATH
+## 20. macOS X - Download and Setup Kafka in PATH
 * https://www.conduktor.io/kafka/how-to-install-apache-kafka-on-mac/
 
 ```
