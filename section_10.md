@@ -50,3 +50,11 @@ $ kafka-topics --bootstrap-server localhost:9092 --describe --topic __consumer-o
 ## 114 Log Cleanup Delete
 * `log.retention.hours`
 * `log.retention.bytes`
+
+## 115 Log Compaction Theory
+
+## 116 Log Compaction Practice
+* https://www.conduktor.io/kafka/kafka-topic-configuration-log-compaction/
+
+## 117 Unclean Leader Election
+* `unclean.leader.election.enable`
