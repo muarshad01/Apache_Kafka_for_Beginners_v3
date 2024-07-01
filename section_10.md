@@ -1,5 +1,5 @@
 
-## Changing a Topic Configuration
+## 111 Changing a Topic Configuration
 * Some topics may need different values by defaults
   * Replication factor
   * \# Partitions
@@ -22,7 +22,7 @@ $ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics 
 $ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics --entity-name configured-topic --alter --delete-config min.insync.replicas
 ```
 
-## Segment and Indexes
+## 112 Segment and Indexes
 * Topic = {P1, P2, ..., P_n}
 * Partion = {S1, S2, ..., S_m}
 * Segment (File)
@@ -37,3 +37,12 @@ $ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics 
   * You set a max frequency for log compaction (more frequent triggers)
   * Maybe you want daily compaction insted of weekly?
   * __ASK YOURSELF__: How often do I need log compaction to happen?
+
+## 113 Log Cleanup Policies
+* __Policy 1__: `log.cleanup.policy=delete`
+* __Policy 2__: `log.cleanup.policy=compact`
+  * Will delete old duplicate keys after the active segment is commited
+  * Infinite time and space retention
+```
+$ kafka-topics --bootstrap-server localhost:9092 --describe --topic __consumer-offset
+```
