@@ -27,8 +27,8 @@ $ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics 
   * More segments per partition
   * Log compaction happens more often
   * MUT Kafka must keep more files open
-  * ASK YOURSELF: How fas will I've new segments based on throughput? 
+  * __ASK YOURSELF__: How fast will I've new segments based on throughput? 
 * A smaller `log.segment.ms` means:
   * You set a max frequency for log compaction (more frequent triggers)
   * Maybe you want daily compaction insted of weekly?
-  * ASK YOURSELF: How often do I need log compaction to happen?
+  * __ASK YOURSELF__: How often do I need log compaction to happen?
