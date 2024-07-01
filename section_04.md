@@ -1,4 +1,4 @@
-## 7. Topics, Partitions and Offsets
+## 7. Topics, Partitions, Segments and Offsets
 
 ***
 
