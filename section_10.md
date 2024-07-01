@@ -6,3 +6,4 @@
 * Log cleanup policy
 * min InSync Replicas (ISR)
 * Pther configurations
+* https://kafka.apache.org/documentation/#brokerconfigs
