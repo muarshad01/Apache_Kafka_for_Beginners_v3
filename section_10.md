@@ -26,6 +26,7 @@ $ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics 
 * Topic = {P1, P2, ..., P_n}
 * Partion = {S1, S2, ..., S_m}
 * Segment (File)
+* Only one segment is ACTIVE (the one data is being written to)
 ***
 * A smaller `log.segment.bytes` means:
   * More segments per partition
