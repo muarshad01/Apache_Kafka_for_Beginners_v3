@@ -18,7 +18,7 @@
 * [Section 14: Real World Insights and Case Studies]()
 * [Section 15: Kafka in the Enterprise for Admins]()
 * [Section 16: Advanced Kafka]() -- TODO
-* [Section 17: Advanced Topics Configuration](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_10.md) -- __In Progress__
+* [Section 17: Advanced Topics Configuration](https://github.com/muarshad01/Apache_Kafka_for_Beginners_v3/blob/main/section_10.md) -- July 01, 2024
 * [Section 18: Next Steps]()
 
 ***
