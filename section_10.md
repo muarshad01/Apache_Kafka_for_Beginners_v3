@@ -46,3 +46,7 @@ $ kafka-configs          --bootstrap-server localhost:9092 --entity-type topics 
 ```
 $ kafka-topics --bootstrap-server localhost:9092 --describe --topic __consumer-offset
 ```
+
+## 114 Log Cleanup Delete
+* `log.retention.hours`
+* `log.retention.bytes`
